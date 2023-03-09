@@ -1,6 +1,6 @@
 I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).  
 Now looking for Sofware Engineer & Fireware Engineer position.  
-## Awards:
+## Awards
 • Won the the Honorable Mention Award(21/222) of the AICUP 2020 Image recognition Competition.
 
 • Won the 3rd /22 of the NAACL-BioNLP 2021 MEDIQA Question Summarization task. 
@@ -9,13 +9,13 @@ Now looking for Sofware Engineer & Fireware Engineer position.
 
 ## Publications  
 **NAACL-BioNLP 2021**  
-• NCUEE-NLP at MEDIQA 2021: Health Question Summarization Using PEGASUS Transformers  
+• NCUEE-NLP at MEDIQA 2021: Health Question Summarization Using PEGASUS Transformers [[reference]](https://aclanthology.org/2021.bionlp-1.30.pdf)  
 **ROCLING 2021**  
-• Incorporating Domain Knowledge into Language Transformers for Multi-Label Classification of Chinese Medical Questions
+• Incorporating Domain Knowledge into Language Transformers for Multi-Label Classification of Chinese Medical Questions [[reference]](https://aclanthology.org/2021.rocling-1.34.pdf) 
 
 
 ## Technical Skills 
-• Languages: • Python • C/C++ • HTML • CSS • JavaScript  
+• Languages: • Python • C/C++ • HTML • CSS • JavaScript • Verilog  
 • Tools: Pytorch • Keras(Tensorflow) • Scikit-learn • Transformers • Selenium  
 • Frameworks: • Django  
 • Databases: MSSQL (JavaScript、Flask、Python) • ElasticSearch(Kibana)  
