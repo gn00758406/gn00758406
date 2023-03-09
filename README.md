@@ -4,11 +4,11 @@
 I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).  
 Now looking for Sofware Engineer & Fireware Engineer position.  
 ## Awards
-• Won the the Honorable Mention Award(21/222) of the AICUP 2020 Image recognition Competition.
+• Won the the **Honorable Mention Award(21/222)** of the **AICUP 2020** Image recognition Competition.
 
-• Won the 3rd /22 of the NAACL-BioNLP 2021 MEDIQA Question Summarization task. 
+• Won the **3rd /22** of the **NAACL-BioNLP 2021** MEDIQA Question Summarization task. 
 
-• Won the 5rd /81 of the AICUP2021 Spring Medical Question Answering task.
+• Won the **5rd /81** of the **AICUP2021** Spring Medical Question Answering task.
 
 ## Publications  
 **NAACL-BioNLP 2021**  
