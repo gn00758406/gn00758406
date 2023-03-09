@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).
+Now looking for Sofware Engineer & Fireware Engineer position.
 <!--
 **gn00758406/gn00758406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).
+
+## I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).
 Now looking for Sofware Engineer & Fireware Engineer position.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
