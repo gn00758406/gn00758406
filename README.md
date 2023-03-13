@@ -1,4 +1,3 @@
-![image](https://github.com/gn00758406/gn00758406/blob/main/Screenshot_10.png)
 
 
 I'm Leo, a graduate student previously focused on Natural Language Processing(Deep learning).  
